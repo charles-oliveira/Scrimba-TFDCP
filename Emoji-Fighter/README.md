@@ -1,4 +1,4 @@
-# Blackjack Game
+# EmojiFighter
 Challenge from [Scrimba](https://scrimba.com/) to build a Blackjack Game using Vanilla JavaScript.
 
 # Features Utilizadas:
