@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Karla", sans-serif;
+}
+
+nav {
+  color: white;
+  text-shadow: 2px 2px 0.2rem lightskyblue;
+  background: lightblue;
+  padding: 15px;
+}
+
+#blog-list {
+  width: 70%;
+  margin: 20px auto;
+  padding: 10px;
+  line-height: 1.35em;
+}
+
+#blog-list > h3 {
+  padding-bottom: 15px;
+}
+
+form {
+  padding: 60px 10px 10px;
+  width: 70%;
+  margin: 0 auto;
+  display: grid;
+}
+
+input#post-title,
+textarea#post-body {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
