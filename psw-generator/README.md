@@ -1,4 +1,4 @@
-# EmojiFighter
+# Password Generator
 Challenge from [Scrimba](https://scrimba.com/) to build a Password Generator using Vanilla JavaScript.
 
 # Features Utilizadas:
